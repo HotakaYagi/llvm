@@ -9,6 +9,7 @@ For general contribution process see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## oneAPI DPC++ compiler
 
 [![oneAPI logo](https://spec.oneapi.io/oneapi-logo-white-scaled.jpg)](https://www.oneapi.io/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fllvm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fllvm?ref=badge_shield)
 
 [![SYCL Post Commit](https://github.com/intel/llvm/actions/workflows/sycl_post_commit.yml/badge.svg?branch=sycl)](https://github.com/intel/llvm/actions/workflows/sycl_post_commit.yml)
 [![Generate Doxygen documentation](https://github.com/intel/llvm/actions/workflows/gh_pages.yml/badge.svg?branch=sycl)](https://github.com/intel/llvm/actions/workflows/gh_pages.yml)
@@ -88,3 +89,6 @@ See [openmp](/openmp) branch.
 See [LICENSE](./sycl/LICENSE.TXT) for details.
 
 <sub>\*Other names and brands may be claimed as the property of others.</sub>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fllvm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fllvm?ref=badge_large)
